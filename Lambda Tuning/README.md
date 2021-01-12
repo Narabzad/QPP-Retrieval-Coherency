@@ -4,7 +4,7 @@ To this end, we report the frequency of values chosen for λ (as a percentage of
 The values for λ show how impactful λ is on the final interpolated performance predictor.
 
 
-| ![space-1.jpg](https://github.com/post-retrieval-QPP/QPP-using-Retrieval-Coherency/blob/master/Lambda%20Tuning/fig2.PNG) | 
+| ![space-1.jpg](https://github.com/Narabzad/QPP-Retrieval-Coherency/blob/master/Lambda%20Tuning/fig2.PNG) | 
 |:-:| 
 | *Figure 1. The frequency (in %) of the adopted interpolation coefficients (λ) in different corpora* |
 
