@@ -1,6 +1,6 @@
 
 # Improved-QPP
-Query Performance Prediction through Retrieval Coherency.
+[Query Performance Prediction through Retrieval Coherency](https://link.springer.com/content/pdf/10.1007/978-3-030-72240-1_15.pdf)
 
 The problem of Query Performance Prediction (QPP) addresses evaluating the quality of retrieved information in satisfying the information need behind the query. While most of the QPP methods focus on the query and retrieved documents’ similarity and score, in this work, we propose a host of post-retrieval QPP metrics based on documents’ associations. We empirically study the potential of commonly used QPP baselines to be improved using document association. 
 
